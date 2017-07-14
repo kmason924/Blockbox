@@ -66,6 +66,21 @@
      width: 1170px;
    }
  }
+ @media (min-width: 1920px) {
+   .container {
+     width: 1880px;
+   }
+   header .hero h1 {
+   font-size:75px;
+   margin:120px 0 0;
+   }
+   header .hero p {
+   font-size: 35px;
+   line-height: 40px;
+   font-weight: 200;
+   margin:20px 0 80px;
+   }
+}
 
  /* HEADER */
  header {
