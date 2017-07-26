@@ -432,6 +432,10 @@ header .hero {
    display:block;
    text-align: center;
  }
+  .left-nav .active {
+   background:#34495E;
+   padding: 10px;
+ }
  .left-nav .items {
    padding:0 6%;
  }
